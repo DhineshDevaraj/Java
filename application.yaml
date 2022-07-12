@@ -1,0 +1,9 @@
+my:
+  greeting: Hello World !!!!! FROM NEWLY UPDATED CONFIG-SERVER on 11.
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  
