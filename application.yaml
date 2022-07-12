@@ -1,5 +1,5 @@
 my:
-  greeting: Hello World !!!!! FROM NEWLY UPDATED CONFIG-SERVER on 11.
+  greeting: Hello World !!!!! FROM NEWLY UPDATED GITHUB-SERVER
 
 management:
   endpoints:
